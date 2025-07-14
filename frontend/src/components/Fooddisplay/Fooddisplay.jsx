@@ -19,7 +19,7 @@ function Fooddisplay({category}) {
               return null;
             })}
          </div>
-       </div> 
+       </div>
     )
 }
 
