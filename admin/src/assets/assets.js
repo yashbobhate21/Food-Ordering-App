@@ -5,6 +5,9 @@ import profile_icon from "./profile_icon.png"
 import upload from "./upload.png"
 import parcel_icon from "./parcel_icon.png"
 
+export const  url = "https://food-ordering-app-yashb.onrender.com"
+export const currency = "₹"
+
 export const assets = {
     logo,
     add_icon,
